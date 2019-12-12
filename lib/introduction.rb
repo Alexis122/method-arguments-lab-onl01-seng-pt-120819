@@ -11,5 +11,5 @@ def introduction(name)
 end
 
 def greeting_programmer(name, language)
-  puts "Hi, my name is #{Josh}. We heard you are a great #{language} programmer."
+  puts "Hi, my name is #{Josh} and I am learning to program in #{ruby}."
 end
